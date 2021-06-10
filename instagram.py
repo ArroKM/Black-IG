@@ -3,7 +3,7 @@ import base64
 """<--
 ×××××××××××××××××××××××××××××××××××××××××××××××××××××
 Tools Description
-Name    :  enc-KEY
+Name    :  Black-IG
 Author  :  AseCx
 Support :  XiuzCode Team
 Version :  Lates Version (0.1)
